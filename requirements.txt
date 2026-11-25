@@ -1,0 +1,4 @@
+
+# Project: Digital Smart City Portal
+# Python Version: 3.10 or above
+# No external dependencies required
